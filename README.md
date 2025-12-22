@@ -25,7 +25,7 @@ Looking to connect with others in data science and contribute to open-source or 
  How to Reach Me
 
 Email: [mdnawfell@gmail.com ]
-LinkedIn: [https://www.linkedin.com/in/mohammed-al-tameemi-1b4aab1b5/]
+LinkedIn: [https://www.linkedin.com/in/mohammed-al-tameemi-1b4aab1b5/]](https://www.linkedin.com/in/mohammed-al-tameemi-506a8a390]
 
 <!---
 mdnawfell89/mdnawfell89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
